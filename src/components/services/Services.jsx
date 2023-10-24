@@ -66,11 +66,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Lorem ipsum dolor sit amet consectetur</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Lorem ipsum dolor sit amet consectetur</p>
             </li>
             {/* <li>
               <BiCheck className='service_list-icon'/>
