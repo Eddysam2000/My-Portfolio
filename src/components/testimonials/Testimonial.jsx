@@ -5,6 +5,15 @@ import IMG2 from '../../assets/client2.webp'
 import IMG3 from '../../assets/client3.jpeg'
 import IMG4 from '../../assets/client4.jpeg'
 
+// import Swiper core and required modules
+import { Pagination } from 'swiper/modules';
+
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/pagination';
+
 
 const data = [
   {
@@ -35,21 +44,26 @@ const Testimonial = () => {
       <h5>Review from Clients</h5>
       <h2>Testimonials</h2>
 
-      <div className="container testimonials_container">
+      <Swiper className="container testimonials_container"
+      // install Swiper modules
+      modules={[Pagination]}
+      spaceBetween={40}
+      slidesPerView={1}
+      pagination={{ clickable: true }}>
         {
           data.map(({image, name, review}, index) => {
             return (
-              <article key={index} className="testimonial">
+              <SwiperSlide key={index} className="testimonial">
               <div className="client_avatar">
                 <img src={image} />
               </div>
               <h5 className='client_name'>{name}</h5>
               <small className='client_review'>{review}</small>
-            </article>
+            </SwiperSlide>
             )
           })
         }
-      </div>
+      </Swiper>
     </section>
   )
 }
