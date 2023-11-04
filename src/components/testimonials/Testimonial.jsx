@@ -33,7 +33,7 @@ const data = [
   },
   {
     image: IMG4,
-    name: 'Gerard Butler',
+    name: 'Gerard Bultrer',
     review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unde. Molestias, pariatur fugiat.'
   }
 ]
