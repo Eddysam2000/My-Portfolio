@@ -107,7 +107,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Lorem ipsum dolornn sit amet consectetur.</p>
             </li>
           </ul>
         </article>
