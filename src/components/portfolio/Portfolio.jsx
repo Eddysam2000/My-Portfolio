@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfolio.png'
 import IMG3 from '../../assets/newsletter.png'
 import IMG4 from '../../assets/snapkart.png'
 import IMG5 from '../../assets/backend api.png'
-import IMG6 from '../../assets/excel analysis.jpeg'
+import IMG6 from '../../assets/travel-tour.png'
 
 
 
@@ -48,7 +48,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Sales Analysis With Microsoft Excel | Data Analysis Examples',
+    title: 'Travel-Tour Vacation Website | Search your desired destination',
     github: 'https://github.com/',
     demo: 'jazzy-burger.vercel.app'
   },
