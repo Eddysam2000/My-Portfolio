@@ -50,7 +50,7 @@ const data = [
     image: IMG6,
     title: 'Travel-Tour Vacation Website | Search your desired destination',
     github: 'https://github.com/',
-    demo: 'jazzy-burger.vercel.app'
+    demo: 'https://travel-tour-chi.vercel.app/'
   },
 ]
 
