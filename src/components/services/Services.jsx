@@ -21,7 +21,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Writing Clean and Efficient HTML, CSS and JavaScript code.</p>
+              <p>Writing Clean HTML, CSS and JavaScript code.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
@@ -29,11 +29,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Creating websites that display properly on different screen sizes.</p>
+              <p>Creating websites that display on different screen sizes.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Familiar with Version control tools such as git.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
