@@ -25,11 +25,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Optimizing web performances and load times.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Creating websites that display properly on different screen sizes.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
