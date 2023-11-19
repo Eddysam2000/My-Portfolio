@@ -66,7 +66,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Team work with frontend developers.</p>
+              <p>Excellent team work with frontend developers.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
