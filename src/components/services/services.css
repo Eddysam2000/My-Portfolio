@@ -39,6 +39,7 @@
     gap: 1rem;
     margin-bottom: 0.8rem;
     display: flex;
+    /* height: max-content; */
 }
 
 .service_list-icon {

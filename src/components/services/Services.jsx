@@ -50,15 +50,15 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Designing the logic that powers the application.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Managing databases to store and retrieve data.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Integrating the backend with other services or systems.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
