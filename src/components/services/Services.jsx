@@ -66,11 +66,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Collaborating with frontend developers to make sure everything works smoothly.</p>
+              <p>Team work with frontend developers.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur</p>
+              <p>Familiar with APIs using Django Rest Framework.</p>
             </li>
             {/* <li>
               <BiCheck className='service_list-icon'/>
