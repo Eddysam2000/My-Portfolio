@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.jpg'
+import ME from '../../assets/edwin.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {PiFolderOpen} from 'react-icons/pi'
@@ -30,13 +30,13 @@ const About = () => {
             <article className='about_card'>
               <FiUsers className='about_icon'/>
               <h5>Clients</h5>
-              <small>20+ Nigerian Clients</small>
+              <small>10+ Nigerian Clients</small>
             </article>
 
             <article className='about_card'>
               <PiFolderOpen className='about_icon'/>
               <h5>Projects</h5>
-              <small>20+ projects done</small>
+              <small>10+ projects done</small>
             </article>
           </div>
 
