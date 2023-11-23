@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, explicabo facere? Tempore explicabo nam quas cupiditate quo. Illum aliquam voluptatum facilis hic odit impedit, atque accusantium dolor doloribus dolorem sit!
+          Hey, I'm Edwin, a fullstack developer who loves crafting seamless user experiences. From designing beautiful frontends with HTML, CSS, and JavaScript to building robust backends with Python and Django, I've got you covered. Let's collaborate and bring your ideas to life!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
