@@ -33,13 +33,13 @@ const Contact = () => {
             <RiInstagramLine className='contact_option-icon'/>
             <h4>Instagram</h4>
             <h5>EdwinIgenegbai</h5>
-            <a href="https://m.me/www.instagram.com/edwinigenegbai/" target='_blank'>Send a message</a>
+            <a href="https://m.me/www.instagram.com/edwinigenegbai/" target='_blank'>Send  message</a>
           </article>
           <article className='contact_option'>
             <BsWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+2349160399839</h5>
-            <a href="https://api.whatsapp.com/send?phone+2347087743041" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone+2347087743041" target='_blank'>Send message</a>
           </article>
 
         </div>
