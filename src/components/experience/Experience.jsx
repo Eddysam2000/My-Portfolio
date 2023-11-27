@@ -77,7 +77,7 @@ const Experience = () => {
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>MongoD</h4>
+              <h4>MongoDB</h4>
               <small className='text-light'>Basic</small>
               </div>
             </article>
