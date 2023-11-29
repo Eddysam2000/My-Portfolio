@@ -24,12 +24,12 @@ const data = [
   {
     image: IMG2,
     name: 'Nathan Yinka',
-    review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unde. Molestias, pariatur fugiat.'
+    review: 'Lorem ipsums dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unde. Molestias, pariatur fugiat.'
   },
   {
     image: IMG3,
     name: 'Jerome Darrell',
-    review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unden. Molestias, pariatur fugiat.'
+    review: 'Lorem ipsums dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unden. Molestias, pariatur fugiat.'
   },
   {
     image: IMG4,
