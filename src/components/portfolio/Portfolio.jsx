@@ -13,7 +13,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Jazzy Burger  | Jazzy Juicy Burger',
+    title: 'JazzyBurger  | Jazzy Juicy Burger',
     github: 'https://github.com/',
     demo: 'https://jazzy-burger.vercel.app/'
   },
