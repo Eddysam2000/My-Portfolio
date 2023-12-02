@@ -35,8 +35,8 @@ const About = () => {
 
             <article className='about_card'>
               <PiFolderOpen className='about_icon'/>
-              <h5>Projects</h5>
-              <small>10+ projects done</small>
+              <h5>Project</h5>
+              <small>10+ project done</small>
             </article>
           </div>
 
