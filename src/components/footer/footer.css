@@ -21,7 +21,7 @@ footer a {
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto 3rem;
-    gap: 21rem;
+    gap: 2rem;
     justify-content: center;
 }
 
