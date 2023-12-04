@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Newsletter Front-Page with React',
+    title: 'Newsletter Front Page with React',
     github: 'https://github.com/',
     demo: 'https://news-letter-page-with-react.vercel.app/'
   },
