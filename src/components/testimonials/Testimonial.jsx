@@ -28,7 +28,7 @@ const data = [
   },
   {
     image: IMG3,
-    name: 'Jerome Darrel',
+    name: 'Jerome Darrell',
     review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus sint officiis libero suscipit. Omnis placeat, architecto facere repudiandae tempore aspernatur culpa optio rem error officia a unden. Molestias, pariatur fugiat.'
   },
   {
