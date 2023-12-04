@@ -29,7 +29,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Creating website that display on different screen sizes.</p>
+              <p>Creating websites that display on different screen sizes.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
