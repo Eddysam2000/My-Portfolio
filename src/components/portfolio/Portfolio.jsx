@@ -57,8 +57,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>My Recent Works</h5>
+      <h2>Portfolios</h2>
 
       <div className="container portfolio_container">
         {
@@ -72,7 +72,7 @@ const Portfolio = () => {
           <h3>{title}</h3>
           <div className="portfolio_item-cta">
             <a href={github} className='btn' target='_blank'>Github</a>
-            <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href={demo} className='btn btn-primary' target='_blank'>Live Demos</a>
           </div>
         </article>
             )
