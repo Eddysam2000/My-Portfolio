@@ -20,7 +20,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Edwin-Personal Portfolio | with React',
+    title: 'Edwin Personal Portfolio | with React',
     github: 'https://github.com/',
     demo: 'jazzy-burger.vercel.app'
   },
