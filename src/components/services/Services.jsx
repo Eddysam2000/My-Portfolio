@@ -103,7 +103,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Solving problems using data structures and algorithms.</p>
+              <p>Solving problems using data structures and algorithm.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
