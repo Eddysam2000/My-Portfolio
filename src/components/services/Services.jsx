@@ -91,11 +91,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Testing and debugging code.</p>
+              <p>Testing and debugging code to ensure functionality.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Conducting Algorithmic analysis.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
